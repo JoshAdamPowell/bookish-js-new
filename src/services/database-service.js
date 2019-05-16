@@ -8,7 +8,7 @@ module.exports = {
 
 const serverName = 'localhost';
 const userName = 'root';
-const password = '';
+const password = 'password1234';
 const databaseSchema = 'bookish';
 
 

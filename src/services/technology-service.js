@@ -4,7 +4,7 @@ const databaseService = require('./database-service');
 module.exports = {
     getAllTechnologies: getAllTechnologies,
     addTechnology: addTechnology,
-    deleteTechnology: deleteTechnology
+    deleteTechnology: deleteTechnology,
 };
 
 
